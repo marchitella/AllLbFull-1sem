@@ -1,0 +1,7 @@
+D:\Lb GitHub\Lb13\Lb13\bin\Debug\Lb13.exe.config
+D:\Lb GitHub\Lb13\Lb13\bin\Debug\Lb13.exe
+D:\Lb GitHub\Lb13\Lb13\bin\Debug\Lb13.pdb
+D:\Lb GitHub\Lb13\Lb13\obj\Debug\Lb13.csprojAssemblyReference.cache
+D:\Lb GitHub\Lb13\Lb13\obj\Debug\Lb13.csproj.CoreCompileInputs.cache
+D:\Lb GitHub\Lb13\Lb13\obj\Debug\Lb13.exe
+D:\Lb GitHub\Lb13\Lb13\obj\Debug\Lb13.pdb

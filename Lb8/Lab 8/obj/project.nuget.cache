@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TsiOKjBymnCeHllCrbXzpEIBSWZryvd1+SQw9smN5Nzbw70m/mTuNByCfjWBKrVrWYcM3a91iP/cB2rlmcXYrQ==",
+  "success": true,
+  "projectFilePath": "D:\\Lb GitHub\\Lb8\\Lab 8\\Lab 8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\werto\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

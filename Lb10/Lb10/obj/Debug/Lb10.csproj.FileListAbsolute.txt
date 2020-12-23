@@ -1,0 +1,7 @@
+D:\Lb GitHub\Lb10\Lb10\obj\Debug\Lb10.csprojAssemblyReference.cache
+D:\Lb GitHub\Lb10\Lb10\obj\Debug\Lb10.csproj.CoreCompileInputs.cache
+D:\Lb GitHub\Lb10\Lb10\bin\Debug\Lb10.exe.config
+D:\Lb GitHub\Lb10\Lb10\bin\Debug\Lb10.exe
+D:\Lb GitHub\Lb10\Lb10\bin\Debug\Lb10.pdb
+D:\Lb GitHub\Lb10\Lb10\obj\Debug\Lb10.exe
+D:\Lb GitHub\Lb10\Lb10\obj\Debug\Lb10.pdb

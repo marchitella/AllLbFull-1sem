@@ -1,0 +1,7 @@
+D:\Lb GitHub\Lb7\Lb5\obj\Debug\Lb7.csprojAssemblyReference.cache
+D:\Lb GitHub\Lb7\Lb5\obj\Debug\Lb7.csproj.CoreCompileInputs.cache
+D:\Lb GitHub\Lb7\Lb5\obj\Debug\Lb5.exe
+D:\Lb GitHub\Lb7\Lb5\obj\Debug\Lb5.pdb
+D:\Lb GitHub\Lb7\Lb5\bin\Debug\Lb5.exe.config
+D:\Lb GitHub\Lb7\Lb5\bin\Debug\Lb5.exe
+D:\Lb GitHub\Lb7\Lb5\bin\Debug\Lb5.pdb

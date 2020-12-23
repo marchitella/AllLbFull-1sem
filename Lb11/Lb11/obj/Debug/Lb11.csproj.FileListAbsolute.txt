@@ -1,0 +1,7 @@
+D:\Lb GitHub\Lb11\Lb11\obj\Debug\Lb11.csprojAssemblyReference.cache
+D:\Lb GitHub\Lb11\Lb11\obj\Debug\Lb11.csproj.CoreCompileInputs.cache
+D:\Lb GitHub\Lb11\Lb11\bin\Debug\Lb11.exe.config
+D:\Lb GitHub\Lb11\Lb11\bin\Debug\Lb11.exe
+D:\Lb GitHub\Lb11\Lb11\bin\Debug\Lb11.pdb
+D:\Lb GitHub\Lb11\Lb11\obj\Debug\Lb11.exe
+D:\Lb GitHub\Lb11\Lb11\obj\Debug\Lb11.pdb

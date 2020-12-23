@@ -1,0 +1,7 @@
+D:\Lb GitHub\Lb14\Lb14\obj\Debug\Lb14.csprojAssemblyReference.cache
+D:\Lb GitHub\Lb14\Lb14\obj\Debug\Lb14.csproj.CoreCompileInputs.cache
+D:\Lb GitHub\Lb14\Lb14\bin\Debug\Lb14.exe.config
+D:\Lb GitHub\Lb14\Lb14\bin\Debug\Lb14.exe
+D:\Lb GitHub\Lb14\Lb14\bin\Debug\Lb14.pdb
+D:\Lb GitHub\Lb14\Lb14\obj\Debug\Lb14.exe
+D:\Lb GitHub\Lb14\Lb14\obj\Debug\Lb14.pdb

@@ -1,0 +1,7 @@
+D:\Lb GitHub\Lb16\Lb16\bin\Debug\Lb16.exe.config
+D:\Lb GitHub\Lb16\Lb16\bin\Debug\Lb16.exe
+D:\Lb GitHub\Lb16\Lb16\bin\Debug\Lb16.pdb
+D:\Lb GitHub\Lb16\Lb16\obj\Debug\Lb16.csprojAssemblyReference.cache
+D:\Lb GitHub\Lb16\Lb16\obj\Debug\Lb16.csproj.CoreCompileInputs.cache
+D:\Lb GitHub\Lb16\Lb16\obj\Debug\Lb16.exe
+D:\Lb GitHub\Lb16\Lb16\obj\Debug\Lb16.pdb

@@ -1,0 +1,7 @@
+D:\Lb GitHub\Lb4\Lb4\bin\Debug\Lb4.exe.config
+D:\Lb GitHub\Lb4\Lb4\bin\Debug\Lb4.exe
+D:\Lb GitHub\Lb4\Lb4\bin\Debug\Lb4.pdb
+D:\Lb GitHub\Lb4\Lb4\obj\Debug\Lb4.csprojAssemblyReference.cache
+D:\Lb GitHub\Lb4\Lb4\obj\Debug\Lb4.csproj.CoreCompileInputs.cache
+D:\Lb GitHub\Lb4\Lb4\obj\Debug\Lb4.exe
+D:\Lb GitHub\Lb4\Lb4\obj\Debug\Lb4.pdb

@@ -1,0 +1,7 @@
+D:\Lb GitHub\Lb15\Lb15\bin\Debug\Lb15.exe.config
+D:\Lb GitHub\Lb15\Lb15\bin\Debug\Lb15.exe
+D:\Lb GitHub\Lb15\Lb15\bin\Debug\Lb15.pdb
+D:\Lb GitHub\Lb15\Lb15\obj\Debug\Lb15.csprojAssemblyReference.cache
+D:\Lb GitHub\Lb15\Lb15\obj\Debug\Lb15.csproj.CoreCompileInputs.cache
+D:\Lb GitHub\Lb15\Lb15\obj\Debug\Lb15.exe
+D:\Lb GitHub\Lb15\Lb15\obj\Debug\Lb15.pdb
